@@ -2,7 +2,7 @@
 	/**
 	 * 
 	 */
-	//Test conlict
+	//Đây là lớp abstract
 	abstract class Cars
 	{
 		public $name;
